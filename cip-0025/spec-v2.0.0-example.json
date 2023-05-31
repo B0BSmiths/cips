@@ -155,4 +155,13 @@
         "value": "aspmx.l.google.com"
     }]
 
+     "publickeys": [{
+        "type": "paynym",
+        "value": "PM8TJJgnizNyRWCasRK5HLVdpKVDzux8XrCta6CTnSsovScd2grRjJorqtcfUaLWKqn52xHtyGMBsotYCgUcHonV5gReqnwZrZqqZtNUXMKjsmrAAAAA"
+    },{
+        "type": "npub",
+        "value": "npub1d4ed5x49d7p24xn63flj4985dc4gpfngdhtqcxpth0ywhm6czxcscfpcq8"
+    }]
+
+    
 }
